@@ -1,4 +1,4 @@
-const CACHE='moharibou-jihawi-v3';
+const CACHE='moharibou-jihawi-v4';
 const ASSETS=['./','./index.html'];
 self.addEventListener('install',e=>{
   self.skipWaiting();
